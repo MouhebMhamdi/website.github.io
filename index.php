@@ -45,10 +45,60 @@
 
 	</head>
 	<body>
+		<div class='spinner-wrapper'>
+			<div class="lds-ripple"><div></div><div></div></div>
+		</div>
+	</body>
+	</html>
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Mouheb</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Mouheb CV By mouheb.com" />
+	<meta name="keywords" content="Mouheb CV By mouheb.com" />
+	<meta name="author" content="http://www.mouheb.com" />
+	
+	<link href="http://fonts.cdnfonts.com/css/julietta-messie" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Great Vibes' rel='stylesheet'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content="http://www.mouheb.com"/>
+	<meta property="og:site_name" content="Mouheb"/>
+	<meta property="og:description" content="CV Mhamdi Mouheb"/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+	<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
 		
-	<div class='spinner-wrapper'>
-		<div class="lds-ripple"><div></div><div></div></div>
-	</div>
+	
 	
 	<div id="page">	
 	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" [href]="/" style="background-image:url(images/cover_bg_3.jpg); cursor: pointer;" data-stellar-background-ratio="0.5">
