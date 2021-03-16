@@ -198,11 +198,11 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Senior Developer</h3>
-									<span class="company">Company Name - 2016 - Current</span>
+									<h3 class="timeline-title">Spring Boot</h3>
+									<span class="company">Top Niveau - Sep 2020 - Nov 2020</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>Credential ID 5220117</p>
 								</div>
 							</div>
 						</li>
@@ -210,11 +210,11 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Junior Developer</h3>
-									<span class="company">Company Name - 2013 - 2015</span>
+									<h3 class="timeline-title">Angular 2 & Ionic 4</h3>
+									<span class="company">ICF Mahdia Central Training Institute - Sep 2018 - Nov 2015</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>Credential ID 5304705</p>
 								</div>
 							</div>
 						</li>
@@ -222,11 +222,11 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">UI/UX Designer</h3>
-									<span class="company">Company Name - 2010 - 2012</span>
+									<h3 class="timeline-title">Introduction to programming using Python</h3>
+									<span class="company">International Training Center Tunisia - ITC - Feb 2019 - Mar 2019</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>Credential ID B08136942015</p>
 								</div>
 							</div>
 						</li>
@@ -291,23 +291,23 @@
 					<div class="col-md-4 text-center">
 						<div class="feature-left">
 							<span class="icon">
+								<i class="icon-bargraph"></i>
+							</span>
+							<div class="feature-copy">
+								<h3>Web Development</h3>
+								<p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="col-md-4 text-center">
+						<div class="feature-left">
+							<span class="icon">
 								<i class="fa fa-desktop"></i>
 							</span>
 							<div class="feature-copy">
 								<h3>Web Design</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="fa fa-laptop"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Web development</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<p>I value simple content structure, clean design patterns, and thoughtful interactions.</p>
 							</div>
 						</div>
 
@@ -315,10 +315,10 @@
 					<div class="col-md-4 text-center">
 						<div class="feature-left">
 							<span class="icon">
-								<i class="icon-search"></i>
+								<i class="icon-mobile"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Analytics</h3>
+								<h3>Mobile Development</h3>
 								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 							</div>
 						</div>
@@ -334,7 +334,7 @@
 								<i class="icon-bargraph"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Web Developent</h3>
+								<h3>Web Development</h3>
 								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 							</div>
 						</div>
@@ -438,9 +438,9 @@
 		<div  class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Hire Me!</h2>
-					<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit. Eos cumque dicta adipisci architecto culpa amet.</p>
-					<p><a href="#" class="btn btn-default btn-lg " >Contact Me</a></p>
+					<h2>Start a project!</h2>
+					<p>Interested in working together? We should queue up a chat. I’ll buy the coffee.</p>
+					<p><a href="#contact" class="btn btn-default btn-lg " >Let's do this</a></p>
 				</div>
 			</div>
 		</div>
