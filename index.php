@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Mouheb</title>
+	<link rel="icon" href="images/icon.jpg" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Mouheb CV By mouheb.com" />
 	<meta name="keywords" content="Mouheb CV By mouheb.com" />
@@ -108,7 +109,7 @@
 				<div class="col-md-10 col-md-offset-1 text-center">
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<div class="profile-thumb rounded " style="background: url(images/mouheb.png); opacity: 0.8; border: 0.22cm white solid;"></div>
+							<div class="profile-thumb rounded " style="background: url(images/mouheb.jpg); opacity: 0.8; border: 0.22cm white solid;"></div>
 							<h1>Mouheb Mhamdi</h1>
 							
 							<div class="" ><h3><span >Full Stack JAVA Developer </span></h3></div>
@@ -119,20 +120,7 @@
 									<li><a href="http://www.mouheb.com"><i class="icon-dribbble2"></i></a></li>
 								</ul>
 							</p>
-							<nav class="navbar  p-t-10 p-l-10 p-r-10 p-b-10">
-								<div class="container-fluid">
-								  
-								  <ul class="nav navbar-nav">
-									
-									<li><a class="nav-link" href="#about">About Me</a></li>
-									<li><a class="nav-link" href="#resume ">My Resume</a></li>
-									<li><a class="nav-link" href="#service">My Servecies</a></li>
-									<li><a class="nav-link" href="#skills">Skills</a></li>
-									<li><a class="nav-link" href="#hire">Hire Me</a></li>
-									<li><a class="nav-link" href="#contact">Contact Me</a></li>
-								  </ul>
-								</div>
-							  </nav>
+							
 						</div>
 					</div>
 				</div>
@@ -147,8 +135,8 @@
 					<h2>About Me</h2>
 				</div>
 			</div>
-			<div class="row ">
-				<div class="col-md-5">
+			<div class="row p-l-50">
+				<div class="col-md-5 ">
 					<ul class="info">
 						<li><span class="first-block">Full Name:</span><span class="second-block">Mouheb Mhamdi</span></li>
 						<li><span class="first-block">Phone:</span><span class="second-block">+216 50 566 033</span></li>
@@ -319,51 +307,14 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Mobile Development</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<p>I make a simple app with professional design and completed content.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 
 
-				<div class="row">
-					<div class="col-md-4 text-center">
-
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-bargraph"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Web Development</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-
-					</div>
-
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-genius"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Web Marketing</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-
-					</div>
-					<div class="col-md-4 text-center">
-						<div class="feature-left">
-							<span class="icon">
-								<i class="icon-chat"></i>
-							</span>
-							<div class="feature-copy">
-								<h3>Support</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
-							</div>
-						</div>
-					</div>
+				<br><br>
 				</div>
 			</div>
 		</div>
@@ -451,7 +402,7 @@
 			<div class="overlay "></div>
 		</div>
 		<div class="choose animate-box">
-			<h2 id="contact">Contact</h2>
+			<h2 id="contact">Let's make a deal</h2>
 			<?php 
                             $Msg = "";
                             if(isset($_GET['error']))
@@ -467,7 +418,7 @@
                             }
                         
                         ?>
-			<form action="#">
+			<form action="process.php" method="post">
 				<div class="row form-group">
 					<div class="col-md-6">
 						<input type="text" id="fname" name="UName" class="form-control" placeholder="Your full name" required>
@@ -482,13 +433,13 @@
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<input type="text" name="Subject" id="subject" class="form-control" placeholder="Your subject of this message">
+						<input type="text" name="Subject" id="subject" class="form-control" placeholder="Subject project or other subject">
 					</div>
 				</div>
 
 				<div class="row form-group">
 					<div class="col-md-12">
-						<textarea name="msg" id="message" cols="30" rows="10" class="form-control" placeholder="Say something about us"></textarea>
+						<textarea name="msg" id="message" cols="30" rows="10" class="form-control" placeholder="Details project or other offer"></textarea>
 					</div>
 					
 				</div>
@@ -511,7 +462,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>&copy; 2021 . All Rights Reserved. <br>Designed by <a href="http://mouheb.com" >Mouheb</a></p>
+					<p>&copy; 2021 . All Rights Reserved. <br>Designed by <a href="https://mouheb.com" >Mouheb</a></p>
 				</div>
 			</div>
 		</div>
